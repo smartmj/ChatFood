@@ -47,10 +47,10 @@ ChatFood is built using **LangGraph**, leveraging its graph-based workflow to cr
 - **Food Search Module**: Retrieves food details from the database.
 
 📌 **Graph View of the ChatFood Workflow:**  
-![Graph View](./sample-solutions/final-graph.jpeg)
+![Graph View](sample-solution/final-graph.jpeg)
 
 ## 📽️ Demo Video
-🎥 Watch the **ChatFood Demo Video** [here](./sample-solutions/ChatFood-Mobin.mp4).
+🎥 Watch the **ChatFood Demo Video** [here](sample-solution/ChatFood-Mobin.mp4).
 
 ## ⚙️ Tech Stack
 - **LangGraph** (for workflow orchestration)
