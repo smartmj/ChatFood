@@ -51,7 +51,7 @@ ChatFood is built using **LangGraph**, leveraging its graph-based workflow to cr
 
 ## 📽️ Demo Video
 <video width="600" controls>
-  <source src="sample-solution/chatfood_demo.mp4" type="video/mp4">
+  <source src="sample-solution/ChatFood-Mobin.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
