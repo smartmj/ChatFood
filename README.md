@@ -50,9 +50,8 @@ ChatFood is built using **LangGraph**, leveraging its graph-based workflow to cr
 ![Graph View](sample-solution/final-graph.jpeg)
 
 ## 📽️ Demo Video
-<video width="600" controls>
-  <source src="https://github.com/mohammadi-milad-mim/ChatFood/blob/main/sample-solution/ChatFood-Mobin.mp4?raw=true" type="video/mp4">
-</video>
+[![ChatFood Demo]](https://github.com/mohammadi-milad-mim/ChatFood/blob/main/sample-solution/ChatFood-Mobin.mp4)
+
 
 ## ⚙️ Tech Stack
 - **LangGraph** (for workflow orchestration)
