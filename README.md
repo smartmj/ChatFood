@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 ChatFood is an intelligent chatbot designed as part of an NLP course project using the **LangGraph** framework. It acts as a virtual assistant in a hypothetical food ordering application, offering users various services, including:
-
+ 
 - 📖 **Providing general and specialized food-related information**
 - 🍽️ **Recommending dishes based on user preferences**
 - 🔍 **Searching for available foods in restaurants**
